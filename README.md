@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 **I’m currently working on:** Developing an AI-driven platform that can predict diseases before symptoms even show. My research focuses on blending machine learning with bioinformatics to create a real-time diagnostic tool.
 
-👯 **I’m looking to collaborate on:** Projects that merge AI with wearable technology, aiming to give people live insights into their health. I’m also open to partnerships with hospitals to pilot predictive health analytics tools.
+👯 **I’m looking to collaborate on:** AI projects that involve AI-powered imaging, particularly in diagnostics. I’m also interested in partnerships with research institutions for large-scale clinical trials.
 
 🤝 **I’m looking for help with:** Implementing AI algorithms that can scan terabytes of health data daily and identifying patterns invisible to the human eye. Also exploring partnerships to gather large-scale data for my models.
 
